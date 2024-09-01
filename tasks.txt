@@ -1,0 +1,7 @@
+Window Title: The app is called "To-Do List."
+Add Task: You can type a task in a box and click the "Add task" button to add it to the list.
+Delete Task: You can select a task from the list and click "Delete task" to remove it.
+Task List: The tasks you add show up in a list with a scroll bar to view all tasks.
+Save Tasks: The app lets you save your tasks to a file called tasks.txt.
+Load Tasks: When you open the app, it loads tasks from tasks.txt so you can see what you saved last time.
+Menu: There’s a "File" menu where you can load tasks, save tasks, or close the app.
